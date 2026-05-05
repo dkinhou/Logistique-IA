@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Quelle est la température pour les surgelés ?",
+    "reponse": "**Température pour les surgelés**\n\nSelon les contraintes de température définies par STEF, les produits surgelés doivent être transportés à une température comprise entre **-18°C et -25°C**. Il est essentiel de respecter cette plage de température pour prévenir toute rupture de chaîne du froid et garantir la qualité des produits transportés.",
+    "horodatage": "22:04:43"
+  },
+  {
+    "question": "Et pour les réfrigérés ?",
+    "reponse": "**Température pour les réfrigérés**\n\nSelon les contraintes de température définies par STEF, les produits réfrigérés doivent être transportés à une température comprise entre **0°C et +4°C**. Il est essentiel de respecter cette plage de température pour prévenir toute rupture de chaîne du froid et garantir la qualité des produits transportés.",
+    "horodatage": "22:04:51"
+  },
+  {
+    "question": "Quelle est la différence entre les deux ?",
+    "reponse": "**Différence entre les surgelés et les réfrigérés**\n\nLa principale différence entre les surgelés et les réfrigérés est la température de transport. Les surgelés sont transportés à une température comprise entre **-18°C et -25°C**, tandis que les réfrigérés sont transportés à une température comprise entre **0°C et +4°C**.\n\nCette différence de température est cruciale pour préserver la qualité et la sécurité des produits transportés. Les surgelés nécessitent une température très basse pour prévenir la dégradation des produits, tandis que les réfrigérés nécessitent une température plus élevée pour prévenir la croissance bactérienne et la dégradation des produits.\n\nIl est essentiel de respecter ces plages de température pour éviter toute rupture de chaîne du froid et garantir la qualité des produits transportés. Les capteurs de température installés dans les camions de STEF permettent de surveiller en temps réel la température des produits et d'envoyer des alertes en cas de déviation de la température autorisée.",
+    "horodatage": "22:05:29"
+  },
+  {
+    "question": "Quels KPI STEF utilise pour mesurer la qualité ?",
+    "reponse": "**KPI pour mesurer la qualité chez STEF**\n\nSTEF utilise plusieurs KPI (indicateurs clés de performance) pour mesurer la qualité de ses services de transport et de logistique du froid. Voici quelques-uns des KPI les plus importants :\n\n1. **Taux de rupture de chaîne du froid** : ce KPI mesure le nombre de fois où la température des produits transportés dépasse les plages de température autorisées (par exemple, si la température des surgelés dépasse -18°C ou si la température des réfrigérés dépasse +4°C). Un taux de rupture de chaîne du froid élevé peut entraîner la perte totale de la marchandise.\n2. **Taux de conformité de la température** : ce KPI mesure le pourcentage de temps pendant lequel les produits transportés sont maintenus dans les plages de température autorisées. Un taux de conformité de la température élevé indique que les produits sont transportés dans des conditions de température appropriées.\n3. **Nombre d'alertes de température** : ce KPI mesure le nombre d'alertes envoyées par les capteurs de température installés dans les camions. Un nombre élevé d'alertes peut indiquer des problèmes de maintenance ou de fonctionnement des camions.\n4. **Taux de satisfaction client** : ce KPI mesure la satisfaction des clients de STEF en fonction de la qualité des services de transport et de logistique du froid. Un taux de satisfaction client élevé indique que les clients sont satisfaits de la qualité des services fournis par STEF.\n5. **Taux de réclamation** : ce KPI mesure le nombre de réclamations reçues de la part des clients en raison de problèmes de qualité ou de température. Un taux de réclamation élevé peut indiquer des problèmes de qualité ou de température qui nécessitent une attention particulière.\n\nEn utilisant ces KPI, STEF peut mesurer la qualité de ses services de transport et de logistique du froid et identifier les domaines d'amélioration pour fournir des services de haute qualité à ses clients",
+    "horodatage": "22:05:52"
+  },
+  {
+    "question": "Le taux de livraison à temps est-il lié à la chaîne du froid ?",
+    "reponse": "**Taux de livraison à temps et chaîne du froid**\n\nOui, le taux de livraison à temps est lié à la chaîne du froid. En effet, une rupture de chaîne du froid peut entraîner la perte totale de la marchandise, ce qui signifie que les produits ne peuvent pas être livrés à temps. Par conséquent, pour atteindre un taux de livraison à temps supérieur à 98%, il est essentiel de maintenir la chaîne du froid intacte tout au long de la chaîne de transport et de logistique.\n\nLes capteurs de température installés dans les camions de STEF permettent de surveiller en temps réel la température des produits et d'envoyer des alertes en cas de déviation de la température autorisée. Cela permet de prendre des mesures correctives rapidement pour éviter une rupture de chaîne du froid et garantir que les produits soient livrés à temps et dans les conditions de température requises.\n\nEn résumé, le taux de livraison à temps est étroitement lié à la chaîne du froid, et STEF doit maintenir une chaîne du froid intacte pour atteindre son objectif de taux de livraison à temps supérieur à 98%.",
+    "horodatage": "22:06:17"
+  }
+]

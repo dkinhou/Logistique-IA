@@ -1,0 +1,50 @@
+=== STEF GROUPE ===
+STEF est le leader européen du transport et de la logistique du froid.
+Le groupe est présent dans 7 pays européens : France, Italie, Espagne, Portugal, Belgique, Pays-Bas et Suisse.
+STEF emploie plus de 20 000 collaborateurs en Europe.
+Le chiffre d'affaires du groupe dépasse 4 milliards d'euros.
+
+=== CONTRAINTES TEMPÉRATURE ===
+Les produits transportés par STEF sont classés en trois catégories :
+- Surgelés : transport entre -18°C et -25°C
+- Réfrigérés : transport entre 0°C et +4°C
+- Produits frais : transport entre +2°C et +8°C
+Une rupture de chaîne du froid entraîne la perte totale de la marchandise.
+Les camions sont équipés de capteurs de température qui envoient des alertes en temps réel.
+
+=== PROCESSUS LOGISTIQUES ===
+STEF gère environ 15 000 livraisons par jour en France.
+Les commandes sont reçues avant 12h pour une livraison le lendemain matin.
+Les entrepôts fonctionnent 24h/24 et 7j/7.
+Chaque tournée est optimisée pour minimiser les kilomètres et maximiser le taux de remplissage des camions.
+Un taux de livraison à temps supérieur à 98% est l'objectif de STEF.
+
+=== RÉGLEMENTATION ===
+Le transport de denrées alimentaires réfrigérées est soumis au règlement européen CE 853/2004.
+Chaque livraison doit être accompagnée d'un document de traçabilité avec les températures relevées.
+Les contrôles sanitaires peuvent être effectués à tout moment par les autorités compétentes.
+Les chauffeurs doivent être formés aux bonnes pratiques d'hygiène HACCP.
+
+=== INDICATEURS CLÉS (KPI) ===
+- Taux de livraison à temps (objectif : 98%)
+- Taux de rupture de chaîne du froid (objectif : 0%)
+- Taux de remplissage des camions (objectif : 85%)
+- Nombre de réclamations clients par mois
+- Consommation de carburant par kilomètre
+- Émissions CO2 par livraison
+
+=== ENJEUX IA ET DIGITALISATION ===
+STEF explore l'utilisation de l'IA pour :
+- Prédire la demande et optimiser les stocks dans les entrepôts
+- Détecter les anomalies de température en temps réel
+- Optimiser les tournées de livraison
+- Automatiser le tri des tickets incidents
+- Analyser les données capteurs pour la maintenance prédictive des véhicules
+Le modèle IA de STEF est encore en phase d'exploration en 2026.
+
+=== CLIENTS TYPES ===
+Les clients de STEF sont principalement :
+- Les grandes surfaces alimentaires (Carrefour, Leclerc, Auchan...)
+- Les restaurants et chaînes de restauration rapide
+- Les industriels agroalimentaires (Danone, Fleury Michon, Picard...)
+- Les grossistes alimentaires
