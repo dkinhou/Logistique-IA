@@ -1,0 +1,11 @@
+# Clé API - ne jamais pusher
+.env
+
+# Fichiers Python inutiles
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnement virtuel si tu en crées un
+venv/
+env/
