@@ -115,21 +115,24 @@ Ouvre ton navigateur sur **http://localhost:5000**
 ## 📁 Structure du projet
 
 ```
-agent-ia-stef/
+agent-stef/
+│
+├── conversations/
+│   └── session_20260505_220626.json    # Sessions sauvegardées automatiquement
 │
 ├── knowledge_base/
-│   └── stef_data.txt        # Base de connaissance STEF
+│   └── stef_data.txt                   # Base de connaissance STEF
 │
 ├── templates/
-│   └── index.html           # Interface web
+│   └── index.html                      # Interface web
 │
-├── conversations/           # Sessions sauvegardées (auto-généré)
+├── venv/                               # Environnement virtuel isolé
 │
-├── app.py                   # Serveur Flask + agent RAG
-├── agent.py                 # Agent en mode terminal
-├── requirements.txt         # Dépendances
-├── .env.example             # Template configuration
-├── .gitignore               # Fichiers exclus de Git
+├── .env                                # Clé API (non commité)
+├── .gitignore                          # Fichiers exclus de Git
+├── agent.py                            # Agent en mode terminal
+├── app.py                              # Serveur Flask et agent RAG
+├── requirements.txt                    # Dépendances
 └── README.md
 ```
 
